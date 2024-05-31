@@ -3,7 +3,7 @@
 
 ------------------------
 
-* 🤝  Undergraduate at NSBM Green University
+* 🤝  Computer Science Undergraduate at NSBM Green University
 * 🧠  Currently learning about Full Stack Web Development, Machine Learning and DevOps
 * ✉️  You can contact me at [akilatharinda05@gmail.com](mailto:akilatharinda05@gmail.com)
 
